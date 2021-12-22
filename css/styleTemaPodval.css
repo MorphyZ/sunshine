@@ -1,0 +1,34 @@
+.podval-container{
+    display:block;
+}
+
+.mail{
+    width: 45px;
+    height: 45px;
+    
+}
+
+.maps{
+    width: 45px;
+    height: 45px;
+    margin-left: 15px;
+}
+
+.telephone{
+    width: 45px;
+    height: 45px;
+    margin-left: 175px;
+}
+
+.col-md-4{
+    text-decoration: none;
+    
+}
+
+.list-group{
+    padding: 10px;
+    margin: 10px;
+}
+.podval{
+   background-color: #23282B;
+}
