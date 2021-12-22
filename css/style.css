@@ -1,0 +1,228 @@
+@import url('https://fonts.googleapis.com/css2?family=Cousine:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+* {
+    font-family: 'Cousine', monospace;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    
+}
+body{
+    background-color: #FFFAFA;
+}
+
+.header{
+    background-color: #FFFAFA;
+}
+.header-container{
+    background-color: #FFFAFA;
+}
+.logo{
+    display: block;
+    color: black;
+    text-decoration: none;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: 'Cousine', monospace;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 25px;
+}
+.logo:hover{
+    display: block;
+    color: grey;
+    text-decoration: none;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: 'Cousine', monospace;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 25px;
+}
+.slogan-txt{
+    display: block;
+    margin-top: 200px;
+}
+.main-menu{
+    background-color: yellow;
+}
+.marki-png{
+    display: block;
+    margin: 100px 0;
+    text-align: center;
+}
+.marki-png-a{
+    margin-right: 100px;
+    text-decoration: none;
+    opacity: 0.8;
+}
+.information-for-auto-withKM{
+    display: block;
+    margin: 100px 0;
+    background-color: #23282B;
+    color: white;
+    font-weight: bold;
+    text-align: right;
+}
+.information-for-auto-withoutKM{
+    display: block;
+    margin: 100px 0;
+    font-weight: bold;
+}
+.spiskok-auto-info-txt{
+    display: block;
+    margin: 50px 0;
+    color: #23282B;
+    text-align: center;
+}
+.spiskok-auto-png{
+    display: block;
+    margin: 0 auto auto 100px;
+    text-align: center;
+
+}
+.why-me-txt{
+    display: block;
+    margin: 50px 0;
+}
+
+.menu-category{
+    color: black;
+}
+.active{
+    color: gray;
+}
+.logo{
+    display: block;
+    color: black;
+    text-decoration: none;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.zvonok{
+    display: block;
+    color: black;
+    text-decoration: none;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.slogan-txt{
+    display: block;
+   
+    text-align: center;
+    color: aliceblue;
+    padding-top: 150px;
+    font-size: 90px;
+    background-color: black;
+    opacity: 0.5;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+}
+.banner{
+    width: 100%;
+    padding: 0;
+    background: url(../img/bentlyback.png) no-repeat;
+    height: 850px;
+    background-size: cover;
+    background-position: center bottom;
+}
+.banner-row{
+    height: 100%;
+}
+.banner-col{
+    padding-bottom: 0;
+}
+.ifawKM{
+    background-color: #23282B;
+    color: white;
+    
+}
+.ifawKMa{
+    background-color: #23282B;
+    color: white;
+    text-decoration: none;
+}
+.ifawoKM{
+    background-color: yellow;
+    color: #23282B;
+}
+.ifawoKMa{
+    background-color: yellow;
+    color: #23282B;
+    text-decoration: none;
+}
+.ifawoKMa:hover{
+    background-color: yellow;
+    color: #23282B;
+    text-decoration: none;
+}
+.why-me-txt-p{
+    color: #23282B;
+    font-size: 120px;
+    font-weight: bold;
+    text-align: center;
+}
+.serif-auto-img{
+    width: 200px;
+}
+.serif-auto{
+    position: relative;
+}
+.serif-auto-txt{
+    font-size: 18px;
+    font-weight: bold;
+    color: gray
+}
+.why-me-png{
+    text-align: center;
+}
+.garant{
+    position: relative;
+}
+.garant-img{
+    width: 200px;
+}
+.garant-txt{
+    font-size: 18px;
+    font-weight: bold;
+    color: gray
+}
+.autoinkm-text{
+    color: white;
+    font-size: 120px;
+    text-align: center;
+    font-weight: bold;
+}
+.autoinkm{
+    background: url(../img/withkm.jpg) no-repeat;
+    height: 250px;
+}
+.autowithoutkm{
+    background: url(../img/withoutkm.jpg) no-repeat;
+    height: 250px;
+}
+.autowithoutkm-text{
+    color: white;
+    font-size: 120px;
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 1px 0 1px #000, 
+    0 1px 1px #000, 
+    -1px 0 1px #000, 
+    0 -1px 1px #000;
+}
+.namecars{
+    color: #23282B;
+    font-size: 120px;
+    font-weight: bold;
+}
+.infocars-main{
+    color: #23282B;
+    font-size: 50px;
+    font-weight: bold;
+}
+.infocars{
+    color: #23282B;
+    font-size: 25px;
+    font-weight: bold;
+}
